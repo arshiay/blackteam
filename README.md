@@ -31,7 +31,7 @@ To install everything in one command, use:
 
 # Support and Development
 
-lackMore information [Black Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+lackMore information [Black Global Chat](https://telegram.me/joinchat/AAAAAEKXK4udEz5zRHZEdA)
 
 
 # Developers!
