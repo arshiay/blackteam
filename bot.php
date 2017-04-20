@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','318982190:AAEGuwsofsI1PsouAfmqwoFuTkcPYSjyC28');
+define('API_KEY','TOKAN');
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
     $ch = curl_init();
